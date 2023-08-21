@@ -1,13 +1,12 @@
 {
-  "name": "api-server",
+  "name": "assignment-2",
   "version": "1.0.0",
-  "description": "This ia a server to render/modify items in a store",
-  "main": "api.js",
+  "description": "A simple web server",
+  "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon api.js"
+    "start":"nodemon web.js"
   },
-  "keywords": [],
   "author": "Akinwunmi Adebayo",
   "license": "ISC",
   "devDependencies": {
