@@ -1,0 +1,5 @@
+[
+  { "name": "Water Melon", "price": "500 NGN", "size": "small", "id": "001" },
+  { "name": "Orange", "price": "100 NGN", "size": "medium", "id": "002" },
+  { "name": "Apple", "price": "250 NGN", "size": "large", "id": "003" }
+]
